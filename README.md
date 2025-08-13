@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in my journey of discovery in tech, I want to find new exiting things to learn <br>I want to challenge myself<br>I want to be part of something bigger 
+I'm currently in my journey of discovery in tech, I want to find new exiting things to learn <br>I want to challenge myself<br>I want to be part of something bigger<br> I'm currently learning React Native for Mobile Development & Django for backend development<br>
 
 
 ## 🌐 Socials:
